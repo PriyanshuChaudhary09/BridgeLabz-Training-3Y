@@ -1,0 +1,33 @@
+/*h1{
+    background-color: lightblue;
+    color: white;
+    font-size: 150px;
+}
+h2{
+    background-color: lightgreen;
+    color: white;
+    font-size: 150px;
+}
+h3{
+    background-color: lightpink;
+    color: white;
+    font-size: 150px;
+}
+.box{
+    background-color: lightgray;
+    color: black;
+    font-size: 10px;
+    width: 110px;
+    height: 20px;
+    border: 2px solid black;
+    border-radius: 5px;
+}*/
+#container{
+    background-color: lightgray;
+    color: black;
+    font-size: 10px;
+    width: 110px;
+    height: 20px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
