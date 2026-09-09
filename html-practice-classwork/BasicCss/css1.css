@@ -22,7 +22,7 @@ h3{
     border: 2px solid black;
     border-radius: 5px;
 }*/
-#container{
+/*#container{
     background-color: lightgray;
     color: black;
     font-size: 10px;
@@ -30,4 +30,34 @@ h3{
     height: 20px;
     border: 2px solid black;
     border-radius: 5px;
+}
+#child{
+    background-color: lightgray;
+    color: black;
+    font-size: 10px;
+    width: 110px;
+    height: 20px;
+    border: 2px solid black;
+    border-radius: 5px;
+}*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box{
+    width: 10px;
+    height: 100px;
+    background-color: lightgray;
+    border: 20px solid black;
+    padding: 215px;
+    box-shadow: 0px 0px 0px green;
+}
+.box2{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border: 20px solid black;
+    padding: 15px;
+    box-sizing: border-box;
 }

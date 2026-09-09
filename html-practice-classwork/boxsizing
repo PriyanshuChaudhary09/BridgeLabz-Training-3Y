@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Box Sizing</title>
+        <link rel="stylesheet" href="css1.css">    
+        </head>
+       <body>
+    <div class="box">
+        Outer Box
+        <div class="box2">Inner Box</div>
+    </div>
+</body>
+
+    </html>
